@@ -13,13 +13,6 @@ Jika Anda menggunakan proyek ini dalam penelitian atau karya lainnya, harap beri
   title={Penerapan Tobrut Classification Dengan Model YOLOv11},
   author={Almas Najiib Imam Muttaqin},
   year={2024},
-  howpublished={\url{https://github.com/username/repository-name}}
 }
 ```
-
-Gantilah `username` dan `repository-name` dengan nama pengguna dan nama repositori GitHub yang sebenarnya.
-
-## License
-
-Proyek ini dilisensikan di bawah lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
 
